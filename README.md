@@ -19,4 +19,6 @@ The second frame is FrMainMenu. This frame is meant to contain the others.
 
 The third frame is MainMenu. This frame welcomes the user and displays a table where the number of materials of each category can be seen.
 
-The fourth frame is NewData. This frame allows the user to register any new information. It has the necessary fields to retrieve new data about a book, magazine, or film.
+The fourth frame is NewData. This frame allows the user to register any new information. It has the necessary fields to retrieve new data about a book, magazine, or film. There is not a database where this information can be stored, but there is a .txt file for this. Nonetheless, a connection between the application and a server might be created.
+
+The fifth frame is Consultation. This frame shows the total number of materials for each category.
